@@ -17,8 +17,6 @@ To run the quiz application, follow these steps:
 3. Ensure that you have a file named `questions.txt` in the project's resources folder. The file should contain the questions in the following format: `questionText,correctAnswer,category`.
 4. Build and run the `Main.java` class to start the quiz.
 
-## Example `questions.txt` File
-
 ## License
 
 [Srege](http://portfolio-egers.byethost16.com/?i=1)
