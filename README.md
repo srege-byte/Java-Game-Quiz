@@ -1,16 +1,23 @@
-# Java Quiz Game
-Working quiz game which asks you questions and tells you if it is wrong or right and give your final score.
-## Add/Change question
-```bash
-Question question1 = new Question("Sa planete ka Sistemi Diellor?" #your Question
-, "7" #the Correct Answer, 
-"Space" #Category will be added in the future to select the type of Category
-);
+# Quiz Application
 
-```
+This is a simple quiz application written in Java. It loads questions from a text file and allows users to answer them. The application keeps track of the user's score and provides feedback on each question.
 
-## Usage
-Run the main file and the command line will start
+## Features
+
+- Randomized question order: The questions are shuffled before being presented to the user.
+- Simple user interface: Users can input their answers via the console.
+- Score calculation: The application keeps track of the user's score and displays it at the end of the quiz.
+
+## Getting Started
+
+To run the quiz application, follow these steps:
+
+1. Clone the repository or download the source code.
+2. Open the project in your preferred Java development environment.
+3. Ensure that you have a file named `questions.txt` in the project's resources folder. The file should contain the questions in the following format: `questionText,correctAnswer,category`.
+4. Build and run the `Main.java` class to start the quiz.
+
+## Example `questions.txt` File
 
 ## License
 
