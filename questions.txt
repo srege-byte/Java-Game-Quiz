@@ -1,0 +1,10 @@
+What is the capital city of France?, Paris, Geography
+Who painted the Mona Lisa?, Leonardo da Vinci, Art
+What is the largest planet in our solar system?, Jupiter, Space
+Who wrote the play Romeo and Juliet?, William Shakespeare, Literature
+What is the chemical symbol for gold?, Au, Science
+Who is the author of the Harry Potter book series?, J.K. Rowling, Literature
+What is the tallest mountain in the world?, Mount Everest, Geography
+In which year did World War II end?, 1945, History
+What is the main language spoken in Brazil?, Portuguese, Language
+Who is the current President of the United States?, Joe Biden, Politics
